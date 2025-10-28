@@ -1,4 +1,5 @@
 # Proyecto TDD – Registro de Personas
+## Autor: Gabriela Bejarano
 
 ## Instrucciones para compilar y correr pruebas
 

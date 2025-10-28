@@ -42,7 +42,7 @@ Este proceso asegura que cada funcionalidad nueva esté validada desde su diseñ
 
 ---
 
-## ⚙️ Patrón AAA en las pruebas
+## Patrón AAA en las pruebas
 
 Las pruebas siguen la estructura **AAA (Arrange, Act, Assert):**
 
@@ -69,7 +69,7 @@ public void shouldNotRegisterPersonUnderAge() {
 
 ---
 
-## 📜 Historia TDD
+## Historia TDD
 
 | Iteración | Estado | Descripción | Commit / Mensaje |
 |:--:|:--:|:--|:--|
